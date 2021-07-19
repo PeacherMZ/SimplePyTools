@@ -10,6 +10,7 @@
   使用了 https://www.runoob.com/python/python-email.html 的相关代码
 
 
+
 2_ScanNEU.py:
   
   扫描与自己网易云ID相近的用户的用户名并输出到res.txt中
